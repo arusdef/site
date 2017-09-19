@@ -1,5 +1,6 @@
 ---
-title: Rack Authentication Postmortem 
+title: Rack Authentication Postmortem
+date: 2016-08-18 00:00:00 Z
 author: Noah Zoschke
 twitter: nzoschke
 ---

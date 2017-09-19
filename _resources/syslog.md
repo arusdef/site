@@ -1,5 +1,5 @@
 ---
-title: "Syslog"
+title: Syslog
 ---
 
 ## Resource Creation

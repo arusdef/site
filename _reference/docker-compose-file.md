@@ -1,5 +1,5 @@
 ---
-title: "Docker Compose File"
+title: Docker Compose File
 ---
 
 [Docker Compose](https://docs.docker.com/compose/overview/) makes it easier to configure and run applications made up of multiple containers. For the uninitiated, imagine being able to define three containers&mdash;one running a web app, another running postgres, and a third running redis&mdash;all in one YAML file and then running those three connected containers with a single command. That file is `docker-compose.yml`, and when using Convox locally, the command is `convox start`.

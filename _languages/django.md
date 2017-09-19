@@ -1,5 +1,5 @@
 ---
-title: "Python (Django)"
+title: Python (Django)
 ---
 
 Getting started with Django on Convox is easy. Your app will need a `Dockerfile`, `docker-compose.yml`, and `.dockerignore`, which you can either provide or generate using `convox init`.

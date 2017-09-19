@@ -1,5 +1,5 @@
 ---
-title: "SSH Keyroll"
+title: SSH Keyroll
 ---
 
 Keyroll generates and replaces the EC2 keypair used for SSH. Under the hood, this replaces an entire cluster with new instances and new SSH keys.

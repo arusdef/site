@@ -1,5 +1,5 @@
 ---
-title: "CLI"
+title: CLI
 ---
 
 ## Install the CLI

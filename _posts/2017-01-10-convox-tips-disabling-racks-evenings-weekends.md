@@ -1,5 +1,6 @@
 ---
-title: "Convox Tips: Disabling racks on evenings and weekends"
+title: 'Convox Tips: Disabling racks on evenings and weekends'
+date: 2017-01-10 00:00:00 Z
 author: Michael Warkentin
 twitter: mwarkentin
 ---

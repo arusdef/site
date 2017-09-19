@@ -1,8 +1,8 @@
 ---
 title: AWS Integration
+date: 2017-02-02 00:00:00 Z
 author: Noah Zoschke
 twitter: nzoschke
-published: true
 ---
 
 From day one, Convox has followed a philosophy of **“Integration over Invention”**. We believe that everything needed to run apps with impeccable uptime and security already exists through cloud services. The only challenge is integrating all the component services together into a simple and reliable system.

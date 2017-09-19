@@ -1,5 +1,5 @@
 ---
-title: "Scheduled Tasks"
+title: Scheduled Tasks
 order: 450
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Login and Authentication"
+title: Login and Authentication
 ---
 
 ## Login, authorization, and keyroll FAQ

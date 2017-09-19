@@ -1,5 +1,5 @@
 ---
-title: "Rack Updates"
+title: Rack Updates
 order: 762
 ---
 

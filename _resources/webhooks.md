@@ -1,5 +1,5 @@
 ---
-title: "Webhooks"
+title: Webhooks
 ---
 
 You can use the `webhook` resource to subscribe to notifications for events on your Rack.

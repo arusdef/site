@@ -1,5 +1,6 @@
 ---
 title: The Heroku to Convox Guide
+date: 2016-12-13 00:00:00 Z
 author: Noah Zoschke
 twitter: nzoschke
 ---

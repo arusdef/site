@@ -1,5 +1,5 @@
 ---
-title: "Code Sync"
+title: Code Sync
 order: 300
 ---
 

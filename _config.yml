@@ -1,107 +1,112 @@
-url: https://convox.com
-
-excerpt_separator: <!--more-->
-
-kramdown:
-  input: GFM
-
-permalink: /blog/:title/
-
+---
+title: Site
+timezone: UTC
 collections:
-  introduction:
-    title: Introduction
-    output: true
-    permalink: /docs/:name/
-  deployment:
-    title: Deployment
-    output: true
-    permalink: /docs/:name/
-  development:
-    title: Development
-    output: true
-    permalink: /docs/:name/
-  management:
-    title: Management
-    output: true
-    permalink: /docs/:name/
-  monitoring:
-    title: Monitoring
-    output: true
-    permalink: /docs/:name/
-  resources:
-    title: Resources
-    output: true
-    permalink: /docs/:name/
-  integrations:
-    title: Integrations
-    output: true
-    permalink: /docs/:name/
-  languages:
-    title: Languages & Frameworks
-    output: true
-    permalink: /docs/:name/
   console:
     title: Console
     output: true
-    permalink: /docs/:name/
-  reference:
-    title: Reference
+    permalink: "/docs/:name/"
+  deployment:
+    title: Deployment
     output: true
-    permalink: /docs/:name/
+    permalink: "/docs/:name/"
+  development:
+    title: Development
+    output: true
+    permalink: "/docs/:name/"
+  guide:
+    title: Guide
+    output: true
   help:
     title: Help
     output: true
-    permalink: /docs/:name/
-  guide:
-    output: true
+    permalink: "/docs/:name/"
   heroku:
+    title: Heroku
     output: true
-
+  integrations:
+    title: Integrations
+    output: true
+    permalink: "/docs/:name/"
+  introduction:
+    title: Introduction
+    output: true
+    permalink: "/docs/:name/"
+  languages:
+    title: Languages & Frameworks
+    output: true
+    permalink: "/docs/:name/"
+  management:
+    title: Management
+    output: true
+    permalink: "/docs/:name/"
+  monitoring:
+    title: Monitoring
+    output: true
+    permalink: "/docs/:name/"
+  posts:
+    title: Posts
+    output: true
+  reference:
+    title: Reference
+    output: true
+    permalink: "/docs/:name/"
+  resources:
+    title: Resources
+    output: true
+    permalink: "/docs/:name/"
+  uploads:
+    title: Uploads
+    output: true
 defaults:
-  - scope:
-      path: ""
-    values:
-      layout: main
-  - scope:
-      path: cases
-    values:
-      layout: cases
-  - scope:
-      path: pricing
-    values:
-      layout: pricing
-  - scope:
-      path: docs
-    values:
-      layout: docs
-  - scope:
-      path: jobs
-    values:
-      layout: jobs
-  - scope:
-      path: legal
-    values:
-      layout: legal
-  - scope:
-      type: posts
-    values:
-      layout: post
-  - scope:
-      path: team
-    values:
-      layout: team
-  - scope:
-      path: guide
-    values:
-      layout: guide
-  - scope:
-      path: heroku
-    values:
-      layout: heroku
-
-
+- scope:
+    path: ''
+  values:
+    layout: main
+- scope:
+    path: cases
+  values:
+    layout: cases
+- scope:
+    path: pricing
+  values:
+    layout: pricing
+- scope:
+    path: docs
+  values:
+    layout: docs
+- scope:
+    path: jobs
+  values:
+    layout: jobs
+- scope:
+    path: legal
+  values:
+    layout: legal
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+- scope:
+    path: team
+  values:
+    layout: team
+- scope:
+    path: guide
+  values:
+    layout: guide
+- scope:
+    path: heroku
+  values:
+    layout: heroku
+url: https://convox.com
+excerpt_separator: "<!--more-->"
+kramdown:
+  input: GFM
+permalink: "/blog/:title/"
 algolia:
-  application_id: '2VBKDVKUPC'
-  index_name:     'convox'
-
-exclude: [vendor]
+  application_id: 2VBKDVKUPC
+  index_name: convox
+exclude:
+- vendor

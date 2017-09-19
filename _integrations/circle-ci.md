@@ -1,5 +1,5 @@
 ---
-title: "CircleCI"
+title: CircleCI
 order: 200
 ---
 

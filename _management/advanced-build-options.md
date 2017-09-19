@@ -1,5 +1,5 @@
 ---
-title: "Advanced Build Options"
+title: Advanced Build Options
 order: 500
 ---
 

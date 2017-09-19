@@ -1,5 +1,5 @@
 ---
-title: "Access Control"
+title: Access Control
 ---
 
 Once you've created an organization, you'll find extra settings on the "Organization" pane in the Convox Console, allowing you to define access controls for your Convox resources. There, you'll find three sections: [Settings](#settings), [Users](#users), and [Deploy Keys](#deploy-keys).

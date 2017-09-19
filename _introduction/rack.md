@@ -1,5 +1,5 @@
 ---
-title: "Convox Rack"
+title: Convox Rack
 order: 200
 ---
 

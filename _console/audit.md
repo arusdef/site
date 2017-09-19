@@ -1,5 +1,5 @@
 ---
-title: "Audit Logs"
+title: Audit Logs
 ---
 
 ![](/assets/images/docs/audit/audit.png)

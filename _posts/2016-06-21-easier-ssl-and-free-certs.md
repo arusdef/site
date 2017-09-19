@@ -1,5 +1,6 @@
 ---
-title: "Easy SSL and Free Certificates"
+title: Easy SSL and Free Certificates
+date: 2016-06-21 00:00:00 Z
 author: Matt Manning
 twitter: mattmanning
 ---

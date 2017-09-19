@@ -1,5 +1,5 @@
 ---
-title: "Running Migrations"
+title: Running Migrations
 order: 500
 ---
 

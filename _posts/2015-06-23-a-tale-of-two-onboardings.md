@@ -1,5 +1,6 @@
 ---
-title: "A Tale of Two Onboardings"
+title: A Tale of Two Onboardings
+date: 2015-06-23 00:00:00 Z
 author: Matt Manning
 twitter: mattmanning
 ---

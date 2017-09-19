@@ -1,5 +1,5 @@
 ---
-title: "Adding an Existing Rack"
+title: Adding an Existing Rack
 order: 380
 ---
 

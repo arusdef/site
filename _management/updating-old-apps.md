@@ -1,5 +1,5 @@
 ---
-title: "Updating Old Apps"
+title: Updating Old Apps
 order: 900
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Rack Parameters"
+title: Rack Parameters
 ---
 
 # Setting Parameters

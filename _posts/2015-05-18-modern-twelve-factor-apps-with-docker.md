@@ -1,8 +1,10 @@
 ---
-title: "Modern Twelve-Factor Apps with Docker"
+title: Modern Twelve-Factor Apps with Docker
+date: 2015-05-18 00:00:00 Z
 author: Noah Zoschke
 twitter: nzoschke
 ---
+
 Docker is awesome for developing [twelve-factor apps](http://12factor.net/).  
 
 [Dockerfile](https://docs.docker.com/reference/builder/) and [docker-compose.yml](https://docs.docker.com/compose/yml/) are emerging standards for declaring everything about your service in the codebase: dependencies, environment, ports, multiple process types, and backing services.

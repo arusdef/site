@@ -1,5 +1,6 @@
 ---
-title: "Open Source"
+title: Open Source
+date: 2015-07-27 00:00:00 Z
 author: Matt Manning
 twitter: mattmanning
 ---

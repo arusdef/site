@@ -1,5 +1,5 @@
 ---
-title: "CLI Configuration Files"
+title: CLI Configuration Files
 ---
 
 This page describes a number of files and directories which can exist in `~/.convox/` and/or `./.convox/`, and which are taken into account by the Convox CLI.

@@ -1,5 +1,5 @@
 ---
-title: "Ruby (Rails)"
+title: Ruby (Rails)
 ---
 
 Getting started with Rails on Convox is easy. Your app will need a `Dockerfile`, `docker-compose.yml`, and `.dockerignore` which you can either provide or generate using `convox init`.

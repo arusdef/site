@@ -1,5 +1,5 @@
 ---
-title: "Dockerfile"
+title: Dockerfile
 ---
 
 The `Dockerfile` describes the steps you need to build and run your application.

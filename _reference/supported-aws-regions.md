@@ -1,5 +1,5 @@
 ---
-title: "Supported AWS Regions"
+title: Supported AWS Regions
 ---
 
 Convox will run in any region that supports EC2 Container Service, Lambda and at least two Availability Zones.

@@ -1,5 +1,5 @@
 ---
-title: "AWS Integration"
+title: AWS Integration
 ---
 
 Convox is designed to give your team agility and consistency on top of AWS. In minutes you can install Convox and stand up new apps that follow AWS and DevOps best practices. Every Convox app leverages AWS CloudFormation and the EC2 Container Service for consistent configuration management and automation to reliably deploy, monitor and scale apps.

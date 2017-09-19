@@ -1,5 +1,6 @@
 ---
 title: The Open Source Evolution
+date: 2016-05-23 00:00:00 Z
 author: Noah Zoschke
 twitter: nzoschke
 ---

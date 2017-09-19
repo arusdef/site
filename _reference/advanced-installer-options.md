@@ -1,5 +1,5 @@
 ---
-title: "Advanced Rack Installer"
+title: Advanced Rack Installer
 ---
 
 When installing a Rack via Console, click the **Advanced Network and Compute Options** link to display available advanced installation options.

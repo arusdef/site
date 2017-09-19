@@ -1,5 +1,5 @@
 ---
-title: "Private Registries"
+title: Private Registries
 order: 1000
 ---
 

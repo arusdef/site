@@ -1,8 +1,10 @@
 ---
-title: "Zero Configuration Rails"
+title: Zero Configuration Rails
+date: 2015-07-21 00:00:00 Z
 author: Matt Manning
 twitter: mattmanning
 ---
+
 Convox can run and deploy a default Rails app with no manual configuration. Give it a try:
 
 ```

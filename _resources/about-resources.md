@@ -1,5 +1,5 @@
 ---
-title: "About resources"
+title: About resources
 ---
 
 ## What is a resource?

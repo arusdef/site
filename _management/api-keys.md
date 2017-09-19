@@ -1,8 +1,7 @@
 ---
-title: "API Keys"
+title: API Keys
 order: 300
 ---
-
 
 As a Convox user, there are several authentication-related concepts you should be aware of:
 

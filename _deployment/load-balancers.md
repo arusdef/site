@@ -1,5 +1,5 @@
 ---
-title: "Load Balancers"
+title: Load Balancers
 order: 750
 ---
 

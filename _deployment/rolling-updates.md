@@ -1,5 +1,5 @@
 ---
-title: "Rolling Updates"
+title: Rolling Updates
 order: 400
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Rack Cost"
+title: Rack Cost
 ---
 
 The cost of the AWS resources that make up a Rack varies according to your resource usage and deployed applications. This page shows an estimate of the cost of a default Rack.

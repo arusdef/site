@@ -1,5 +1,6 @@
 ---
 title: Announcing Workflows
+date: 2016-09-30 00:00:00 Z
 author: Luke Roberts
 twitter: awsmsrc
 ---

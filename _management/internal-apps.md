@@ -1,5 +1,5 @@
 ---
-title: "Internal Apps"
+title: Internal Apps
 order: 550
 ---
 

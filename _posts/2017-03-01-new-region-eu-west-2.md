@@ -1,8 +1,8 @@
 ---
 title: eu-west-2 now supported by Convox
+date: 2017-03-01 00:00:00 Z
 author: AJ Bowen
 twitter: s0ulshake
-published: true
 ---
 
 We've added `eu-west-2` to our list of supported AWS regions, bringing the total number of supported regions to **ten**.

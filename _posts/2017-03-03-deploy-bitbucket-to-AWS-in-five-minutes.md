@@ -1,5 +1,6 @@
 ---
 title: Deploy Bitbucket to AWS in Five Minutes
+date: 2017-03-03 00:00:00 Z
 author: Ian Malott
 twitter: ianmalott
 ---

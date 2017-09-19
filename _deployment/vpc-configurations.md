@@ -1,5 +1,5 @@
 ---
-title: "VPC Configurations"
+title: VPC Configurations
 order: 800
 ---
 

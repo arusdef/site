@@ -1,5 +1,6 @@
 ---
-title: "Grid: Devops Services for Engineering Teams"
+title: 'Grid: Devops Services for Engineering Teams'
+date: 2015-11-20 00:00:00 Z
 author: Matt Manning
 twitter: mattmanning
 ---

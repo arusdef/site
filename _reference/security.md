@@ -1,5 +1,5 @@
 ---
-title: "Security"
+title: Security
 ---
 
 Convox always has your security in mind. Below are some of the ways your apps and resources are protected.

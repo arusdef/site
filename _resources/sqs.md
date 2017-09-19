@@ -1,5 +1,5 @@
 ---
-title: "SQS"
+title: SQS
 ---
 
 <div class="alert alert-warning">

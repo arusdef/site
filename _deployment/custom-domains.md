@@ -1,5 +1,5 @@
 ---
-title: "Custom Domains"
+title: Custom Domains
 order: 800
 ---
 

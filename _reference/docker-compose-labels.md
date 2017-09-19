@@ -1,5 +1,5 @@
 ---
-title: "Docker Compose Labels"
+title: Docker Compose Labels
 ---
 
 Convox uses [Docker Compose Labels](https://docs.docker.com/compose/compose-file/#/labels) to add metadata to containers. These labels serve as a convenient way to specify Convox-specific configuration alongside the rest of your more standard container configuration.

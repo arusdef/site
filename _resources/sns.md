@@ -1,5 +1,5 @@
 ---
-title: "SNS"
+title: SNS
 ---
 
 ## Resource Creation

@@ -1,5 +1,5 @@
 ---
-title: "Integrations"
+title: Integrations
 ---
 
 Convox Console can integrate with GitLab and GitHub to capture source code management events and with Slack for notifications.

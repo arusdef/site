@@ -1,5 +1,6 @@
 ---
 title: Lambda Node.js 0.10 Update Instructions
+date: 2017-03-30 00:00:00 Z
 author: Noah Zoschke
 twitter: nzoschke
 ---

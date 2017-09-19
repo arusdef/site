@@ -1,5 +1,5 @@
 ---
-title: "Deploying to Convox"
+title: Deploying to Convox
 order: 200
 ---
 

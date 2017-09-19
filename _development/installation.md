@@ -1,5 +1,5 @@
 ---
-title: "Installing the Convox CLI"
+title: Installing the Convox CLI
 order: 50
 ---
 

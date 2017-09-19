@@ -1,5 +1,5 @@
 ---
-title: "App Statuses"
+title: App Statuses
 ---
 
 As you interact with your Convox apps, you will notice a variety of statuses displayed in the Console web interface and in the output of CLI commands like `convox apps info`. Here's what they mean.

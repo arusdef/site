@@ -1,5 +1,5 @@
 ---
-title: "Ruby (Sinatra)"
+title: Ruby (Sinatra)
 ---
 
 Getting started with Sinatra on Convox is easy. Your app will need a `Dockerfile`, `docker-compose.yml`, and `.dockerignore` which you can either provide or generate using `convox init`.

@@ -1,5 +1,5 @@
 ---
-title: "Notifications"
+title: Notifications
 ---
 
 Console users can get notification for common Rack events. Below you can find a list of the types of notifications you will receive.

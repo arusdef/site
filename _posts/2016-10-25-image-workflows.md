@@ -1,5 +1,6 @@
 ---
 title: Image Workflows
+date: 2016-10-25 00:00:00 Z
 author: Noah Zoschke
 twitter: nzoschke
 ---

@@ -1,5 +1,6 @@
 ---
 title: Migrating to the New Lambda Runtime
+date: 2017-01-06 00:00:00 Z
 author: Matt Manning
 twitter: mattmanning
 ---

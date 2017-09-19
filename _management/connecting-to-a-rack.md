@@ -1,5 +1,5 @@
 ---
-title: "Connecting to a Rack"
+title: Connecting to a Rack
 order: 375
 ---
 

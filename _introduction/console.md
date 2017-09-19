@@ -1,5 +1,5 @@
 ---
-title: "Convox Console"
+title: Convox Console
 order: 300
 ---
 

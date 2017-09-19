@@ -1,5 +1,6 @@
 ---
 title: Docker In Production for 18 Months
+date: 2016-11-11 00:00:00 Z
 author: Noah Zoschke
 twitter: nzoschke
 ---

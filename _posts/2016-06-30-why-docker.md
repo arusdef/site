@@ -1,5 +1,6 @@
 ---
-title: "Why Docker? The Image API is Everywhere"
+title: Why Docker? The Image API is Everywhere
+date: 2016-06-30 00:00:00 Z
 author: Noah Zoschke
 twitter: nzoschke
 ---

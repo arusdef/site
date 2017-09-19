@@ -1,5 +1,5 @@
 ---
-title: "Installing a Rack"
+title: Installing a Rack
 order: 100
 ---
 

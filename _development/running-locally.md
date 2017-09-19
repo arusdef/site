@@ -1,5 +1,5 @@
 ---
-title: "Running Locally"
+title: Running Locally
 order: 200
 ---
 

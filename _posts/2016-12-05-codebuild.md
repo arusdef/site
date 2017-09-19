@@ -1,5 +1,6 @@
 ---
 title: AWS CodeBuild
+date: 2016-12-05 00:00:00 Z
 subtitle: Cheaper, Faster, Safer Builds
 author: Noah Zoschke
 twitter: nzoschke

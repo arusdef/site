@@ -1,5 +1,6 @@
 ---
 title: Encryption at Rest
+date: 2016-11-07 00:00:00 Z
 subtitle: Table Stakes for Compliance
 author: Noah Zoschke
 twitter: nzoschke

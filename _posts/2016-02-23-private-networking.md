@@ -1,5 +1,6 @@
 ---
 title: Private Networking
+date: 2016-02-23 00:00:00 Z
 author: David Dollar
 twitter: ddollar
 ---

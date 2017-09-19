@@ -1,5 +1,6 @@
 ---
 title: Deploying with Buildpacks
+date: 2017-02-21 00:00:00 Z
 author: Noah Zoschke
 twitter: nzoschke
 ---

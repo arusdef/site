@@ -1,5 +1,5 @@
 ---
-title: "Workflows"
+title: Workflows
 ---
 
 [Convox Console](https://console.convox.com) supports the creation of Workflows. A Workflow is a list of tasks executed in response to a trigger. You can use Workflows to build automation--like deploying when you push to GitHub--into an organization.

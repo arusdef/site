@@ -1,5 +1,5 @@
 ---
-title: "Debugging"
+title: Debugging
 order: 400
 ---
 

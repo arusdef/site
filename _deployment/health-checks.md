@@ -1,5 +1,5 @@
 ---
-title: "Health Checks"
+title: Health Checks
 order: 350
 ---
 

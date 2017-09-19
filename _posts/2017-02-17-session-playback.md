@@ -1,5 +1,6 @@
 ---
 title: Announcing Audit Logs with Session Playback
+date: 2017-02-17 00:00:00 Z
 author: Luke Roberts
 twitter: awsmsrc
 ---

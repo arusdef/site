@@ -1,5 +1,6 @@
 ---
-title: "Dev → Test → Prod Parity with Docker"
+title: Dev → Test → Prod Parity with Docker
+date: 2016-10-28 00:00:00 Z
 author: Noah Zoschke
 twitter: nzoschke
 ---

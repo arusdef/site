@@ -1,5 +1,5 @@
 ---
-title: "Travis CI"
+title: Travis CI
 order: 400
 ---
 

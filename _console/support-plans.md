@@ -1,5 +1,5 @@
 ---
-title: "Support Plans"
+title: Support Plans
 ---
 
 Convox offers several tiers of support. Your level of support is tied to your organization’s [Console](https://console.convox.com) plan.

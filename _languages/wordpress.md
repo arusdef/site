@@ -1,5 +1,5 @@
 ---
-title: "WordPress"
+title: WordPress
 ---
 
 [WordPress](https://wordpress.org/) is a popular blogging platform based on PHP and MySQL. It's simple to set up a WordPress blog on Convox with the following steps.

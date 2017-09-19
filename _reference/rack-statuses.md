@@ -1,5 +1,5 @@
 ---
-title: "Rack Statuses"
+title: Rack Statuses
 ---
 
 As you interact with your Rack, you will notice a variety of statuses displayed in the Console web interface and in the output of CLI commands like `convox rack`. Here's what they mean.

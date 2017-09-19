@@ -1,5 +1,5 @@
 ---
-title: "Volumes"
+title: Volumes
 order: 600
 ---
 

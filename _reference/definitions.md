@@ -1,7 +1,7 @@
 ---
 title: Definitions
+permalink: "/docs/definitions/"
 layout: docs
-permalink: /docs/definitions/
 ---
 
 ## Process

@@ -1,5 +1,5 @@
 ---
-title: "Logs"
+title: Logs
 order: 600
 ---
 

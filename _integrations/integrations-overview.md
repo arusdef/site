@@ -1,5 +1,5 @@
 ---
-title: "Integrations Overview"
+title: Integrations Overview
 order: 100
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Troubleshooting"
+title: Troubleshooting
 ---
 
 ## I got an error while installing Convox

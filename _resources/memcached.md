@@ -1,5 +1,5 @@
 ---
-title: "Memcached"
+title: Memcached
 ---
 
 ## Resource Creation

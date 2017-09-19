@@ -1,5 +1,5 @@
 ---
-title: "Instance Rolls"
+title: Instance Rolls
 order: 525
 ---
 

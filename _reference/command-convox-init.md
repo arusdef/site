@@ -1,5 +1,5 @@
 ---
-title: "Command: convox init"
+title: 'Command: convox init'
 ---
 
 To get your apps up and running on Convox as fast as possible, we offer the CLI command `convox init`. It inspects a codebase and then, depending on the language or framework detected, it generates files that allow Convox to run your app locally via `convox start` and in a Convox Rack via `convox deploy`. Convox provides this convenience by leveraging the open source [Heroku buildpacks](https://devcenter.heroku.com/articles/buildpacks).

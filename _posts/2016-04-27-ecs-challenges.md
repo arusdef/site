@@ -1,5 +1,6 @@
 ---
 title: The Seven Biggest Challenges of Deployment to ECS
+date: 2016-04-27 00:00:00 Z
 author: Noah Zoschke
 twitter: nzoschke
 ---

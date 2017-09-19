@@ -1,5 +1,5 @@
 ---
-title: "Uninstalling Convox"
+title: Uninstalling Convox
 ---
 
 <div class="alert alert-warning">

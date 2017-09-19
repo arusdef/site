@@ -1,5 +1,6 @@
 ---
 title: Services over Software
+date: 2016-08-11 00:00:00 Z
 author: Noah Zoschke
 twitter: nzoschke
 ---

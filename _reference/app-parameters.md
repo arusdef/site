@@ -1,5 +1,5 @@
 ---
-title: "App Parameters"
+title: App Parameters
 ---
 
 Parameters can be used to configure your Convox apps. Below is a list of the available app parameters.

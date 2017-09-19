@@ -1,5 +1,6 @@
 ---
-title: "Integration over Invention"
+title: Integration over Invention
+date: 2015-08-12 00:00:00 Z
 author: Noah Zoschke
 twitter: nzoschke
 ---

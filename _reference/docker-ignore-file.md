@@ -1,5 +1,5 @@
 ---
-title: "Docker Ignore File"
+title: Docker Ignore File
 ---
 
 The .dockerignore file contains a list of patterns that tell Docker which files and directories to exclude from the build context. For a more in-depth explanation of the file's functionality and pattern syntax, see the official [.dockerignore file documentation](https://docs.docker.com/engine/reference/builder/#/dockerignore-file).

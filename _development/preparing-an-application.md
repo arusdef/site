@@ -1,5 +1,5 @@
 ---
-title: "Preparing an Application"
+title: Preparing an Application
 order: 100
 ---
 

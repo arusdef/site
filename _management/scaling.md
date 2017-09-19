@@ -1,5 +1,5 @@
 ---
-title: "Scaling"
+title: Scaling
 order: 800
 ---
 

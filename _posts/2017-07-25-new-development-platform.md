@@ -1,5 +1,6 @@
 ---
 title: The Convox 2.0 Development Platform
+date: 2017-07-25 00:00:00 Z
 author: Noah Zoschke
 twitter: nzoschke
 ---
